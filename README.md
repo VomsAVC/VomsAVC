@@ -4,8 +4,8 @@
 
 ## 🌐 Languages / Idiomas
 
-- [Español](#español)
-- [English](#english)
+- [Español](#🇪🇸-español)
+- [English](#🇬🇧-english)
 
 ---
 
