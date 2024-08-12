@@ -4,12 +4,12 @@
 
 ## 🌐 Languages / Idiomas
 
-- [Español](#🇪🇸-español)
-- [English](#🇬🇧-english)
+- [Español](#español)
+- [English](#english)
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 ### 📚 Introducción
 
@@ -24,7 +24,7 @@ Esta es la página principal de mi ruta de aprendizajes, proyectos de programaci
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 📚 Introduction
 
