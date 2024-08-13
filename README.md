@@ -54,7 +54,7 @@ Welcome! This is the main page of my learning path and programming projects as I
 - [Proyecto 2](https://github.com/VomsAVC/proyecto2)
 
 ### PowerShell
-- [Proyecto 1](https://github.com/VomsAVC/proyecto1)
+- [Scripts de PowerShell](https://github.com/VomsAVC/powershell-script)
 - [Proyecto 2](https://github.com/VomsAVC/proyecto2)
 
 ---
