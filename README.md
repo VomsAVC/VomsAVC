@@ -43,7 +43,7 @@ Welcome! This is the main page of my learning path and programming projects as I
 
 ### Git y GitHub
 - [Git y GitHub primeros pasos](https://github.com/VomsAVC/hello-git)
-- [Proyecto 2](https://github.com/VomsAVC/proyecto2)
+- [Curso Git y GitHub mouredev](https://github.com/VomsAVC/hello-git-mouredev)
 
 ### Docker
 - [Proyecto 1](https://github.com/VomsAVC/proyecto1)
