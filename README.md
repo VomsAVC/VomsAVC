@@ -1,64 +1,21 @@
-# 🛠️ Ruta de Aprendizaje y Proyectos de Programación - VomsAVC
+# Álvaro Vicente — VomsAVC
 
-¡Bienvenidos! Esta es la página principal de mi ruta de aprendizajes, proyectos de programación y mejora como profesional.
-
-## 🌐 Languages / Idiomas
-
-- [Español](#español)
-- [English](#english)
+Administrador de sistemas e infraestructura. Automatización, M365, scripting y desarrollo de herramientas propias.
 
 ---
 
-## Español
+## Infraestructura y automatización
 
-### 📚 Introducción
+- [powershell-infra](https://github.com/VomsAVC/powershell-infra) — PowerShell toolkit para administración M365: Azure AD, Exchange, Dynamics CRM, Intune, SharePoint, Teams Bookings y AWX *(privado)*
+- [openclaw-davos-docs](https://github.com/VomsAVC/openclaw-davos-docs) — Documentación técnica del stack OpenClaw/Davos en Ubuntu *(privado)*
 
-Esta es la página principal de mi ruta de aprendizajes, proyectos de programación y mejora como profesional. Aquí encontrarás enlaces a los proyectos y herramientas que estoy utilizando para crecer en mi carrera en tecnología.
+## Aprendizaje
 
-### 🔗 Proyectos y Herramientas
-
-- **[Git y GitHub](#git-y-github)**: Herramientas esenciales para el control de versiones y la colaboración en proyectos de software.
-- **[Docker](#docker)**: Una plataforma de contenedores que me permite desarrollar, desplegar y ejecutar aplicaciones en entornos aislados.
-- **[Python](#python)**: Un lenguaje de programación versátil que utilizo para la automatización, el análisis de datos y el desarrollo de software.
-- **[PowerShell](#powershell)**: Un lenguaje de scripting y shell de línea de comandos para automatización y administración de sistemas.
-
----
-
-## English
-
-### 📚 Introduction
-
-Welcome! This is the main page of my learning path and programming projects as I strive to improve as a professional. Here you will find links to the projects and tools I've been using to grow my career in technology.
-
-### 🔗 Projects and Tools
-
-- **[Git and GitHub](#git-and-github)**: Essential tools for version control and collaboration on software projects.
-- **[Docker](#docker)**: A container platform that allows me to develop, deploy, and run applications in isolated environments.
-- **[Python](#python)**: A versatile programming language I use for automation, data analysis, and software development.
-- **[PowerShell](#powershell)**: A scripting language and command-line shell for automation and system administration.
+- [python-learning](https://github.com/VomsAVC/python-learning) — Ejercicios y práctica Python *(privado)*
+- [roadmap-retos-programacion](https://github.com/VomsAVC/roadmap-retos-programacion) — Retos semanales de programación (comunidad MoureDev)
+- [Hello-Python](https://github.com/VomsAVC/Hello-Python) — Curso Python MoureDev
+- [hello-git-mouredev](https://github.com/VomsAVC/hello-git-mouredev) — Curso Git y GitHub MoureDev
 
 ---
 
-## 📁 Mis Proyectos / My Projects
-
-### Git y GitHub
-- [Git y GitHub primeros pasos](https://github.com/VomsAVC/hello-git)
-- [Curso Git y GitHub mouredev](https://github.com/VomsAVC/hello-git-mouredev)
-
-### Docker
-- [Proyecto 1](https://github.com/VomsAVC/proyecto1)
-- [Proyecto 2](https://github.com/VomsAVC/proyecto2)
-
-### Python
-- [Proyecto 1](https://github.com/VomsAVC/proyecto1)
-- [Proyecto 2](https://github.com/VomsAVC/proyecto2)
-
-### PowerShell
-- [Scripts de PowerShell](https://github.com/VomsAVC/powershell-script)
-- [Proyecto 2](https://github.com/VomsAVC/proyecto2)
-
----
-
-## 📝 Contacto / Contact
-
-- GitHub: [VomsAVC](https://github.com/VomsAVC)
+GitHub: [VomsAVC](https://github.com/VomsAVC)
